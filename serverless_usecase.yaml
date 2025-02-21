@@ -134,6 +134,6 @@ Resources:
       FunctionName: !Ref Lambdafunction
       Action: lambda:InvokeFunction
       Principal: apigateway.amazonaws.com
-      SourceAccount: 790244925821
+      SourceAccount: enter account id of aws account
           
           
